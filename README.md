@@ -150,7 +150,7 @@ All transitions handled using **GSAP** animations.
 - Welcome mail sent on sign-up
 - Ride start mail with driver and pickup info
 - Completion mail includes route and fare summary
-- Built using **Nodemailer** or **SendGrid**
+- Built using **Nodemailer** or **Brevo**
 
 ---
 
@@ -170,7 +170,7 @@ All transitions handled using **GSAP** animations.
 
 ## 🙌 Author
 
-Made with ❤️ by [Ujjwal](https://github.com/ujjwalmutneja)
+Made with ❤️ by [Vaibhav](https://github.com/Zeroth411)
 
 Special thanks to mentors, contributors, and the developer community.
 
