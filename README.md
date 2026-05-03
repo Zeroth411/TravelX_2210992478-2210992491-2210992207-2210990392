@@ -161,10 +161,8 @@ All transitions handled using **GSAP** animations.
 - 📞 Voice Calling between driver and passenger
 - 🗺️ Live Driver Tracking on Map
 - 📲 Progressive Web App (PWA) support
-- 💰 Wallet-based payments and coupons
 - 📩 Advanced mail customization with templates
 - 🔔 Push Notifications (via Firebase or OneSignal)
-- 📊 Admin Dashboard for trip analytics
 
 ---
 
