@@ -168,10 +168,10 @@ All transitions handled using **GSAP** animations.
 
 ## 🙌 Author
 
-Made with ❤️ by [Vaibhav](https://github.com/Zeroth411)
-                 Ujjwal Mutneja 
-                 Sahibjot Singh Benipal
-                 Harshita Bansal
+Made with ❤️ by [Vaibhav](https://github.com/Zeroth411) ,
+                 Ujjwal Mutneja ,
+                 Sahibjot Singh Benipal ,
+                 Harshita Bansal 
 
 Special thanks to mentors, contributors, and the developer community.
 
