@@ -38,7 +38,7 @@
 | Payments     | Razorpay / Stripe                                                           |
 | Email        | Nodemailer / SendGrid                                                       |
 | Auth         | JWT (JSON Web Token)                                                        |
-| Deployment   | Vercel (Frontend), Render / Railway (Backend)                               |
+| Deployment   | Vercel (Frontend)/ Render (Backend)                               |
 
 ---
 
